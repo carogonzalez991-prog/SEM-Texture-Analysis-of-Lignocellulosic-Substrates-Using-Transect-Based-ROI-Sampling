@@ -1,0 +1,2 @@
+# SEM-Texture-Analysis-of-Lignocellulosic-Substrates-Using-Transect-Based-ROI-Sampling
+This repository provides an R pipeline for quantitative texture analysis of scanning electron microscopy (SEM) images of lignocellulosic substrates.  The workflow extracts multiple regions of interest (ROIs) along a transect and computes texture descriptors to compare **initial** and **residual** substrates after fungal cultivation. 
