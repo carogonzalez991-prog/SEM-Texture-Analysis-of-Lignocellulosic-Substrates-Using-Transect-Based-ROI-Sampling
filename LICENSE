@@ -1,0 +1,30 @@
+RESEARCH-ONLY NON-COMMERCIAL LICENSE (WITH ATTRIBUTION)
+
+Copyright (c) 2025 Carolina Gonzalez
+
+Permission is hereby granted to use, copy, and modify this software and associated documentation files (the “Software”)
+for NON-COMMERCIAL RESEARCH PURPOSES ONLY, subject to the following conditions:
+
+1) Attribution / Citation (Mandatory)
+   Any use of the Software (including modified versions) must include proper attribution.
+   At minimum, users must cite:
+   - The GitHub repository URL (or DOI, if archived in Zenodo)
+   - The authors listed in the repository
+   - The associated manuscript, if available
+
+2) Non-Commercial Use Only
+   The Software may not be used for commercial purposes, including but not limited to:
+   - sale, licensing, paid services, consulting deliverables, or inclusion in commercial products
+   - internal use by a for-profit entity where the primary purpose is commercial advantage
+
+3) Research Use Only
+   The Software is provided for academic/scientific research and educational use. Clinical, regulatory, or operational
+   deployment is not permitted without explicit written permission from the copyright holder.
+
+4) No Warranty
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permissions beyond the scope of this license (including commercial use), contact the authors.
